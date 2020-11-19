@@ -1,0 +1,23 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "3D Printer",
+      "description": "Very good",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "name": "Kim stopper",
+      "description": "Effectively stops Kim",
+      "price": 1233200
+    },
+    {
+      "id": 3,
+      "name": "Alexs help book",
+      "description": "Very good",
+      "price": 200
+    }
+  ]
+}
